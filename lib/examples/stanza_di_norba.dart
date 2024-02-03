@@ -262,8 +262,7 @@ class _StanzaDiNorbaWidgetState extends State<StanzaDiNorbaWidget> {
     _downloadFile(
         "https://github.com/saldang/rasta_glb/raw/main/Stanza%20Norba_Tetto.glb",
         "tetto.glb");
-    _downloadFile(
-        "https://drive.usercontent.google.com/u/0/uc?id=1mWc0bXwJcQRbXhDS51CibILSSHAx7frx&export=download",
+    _downloadFile("https://github.com/saldang/rasta_glb/raw/main/triclinio.glb",
         "triclinio.glb");
   }
 
